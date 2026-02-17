@@ -16,6 +16,4 @@ Estou sempre estudando, testando e construindo projetos para evoluir como desenv
     
 _> Contatos:_
 ⚡Email: juantiagobsilva@gmail.com
-⚡Linkedin: juan-barbosa
-
-
+⚡Linkedin: www.linkedin.com/in/juan-barbosa-753930302
