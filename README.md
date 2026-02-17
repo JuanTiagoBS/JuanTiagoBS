@@ -12,7 +12,7 @@ Estou sempre estudando, testando e construindo projetos para evoluir como desenv
     ▶︎ FreeCode - Resolução de problemas;
     ▶︎ Alura - Cursos de projetos em Python;
     ▶︎ Udemy - Luis Otavio - Pyhon do inicio ao avançado;
-    ▶︎ IFMG/Cepedi - Back End em python.
+    ▶︎ IFMG/Cepedi - Back End em Python.
     
 _> Contatos:_
 ⚡Email: juantiagobsilva@gmail.com
