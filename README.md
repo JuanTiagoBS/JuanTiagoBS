@@ -8,14 +8,10 @@ Estou sempre estudando, testando e construindo projetos para evoluir como desenv
 
 📔Tenho conhecimento em Python adquirido por meio de prática, cursos e resolução de exercícios nas seguintes plataformas:
 
-    ▶︎ BeeCrowd - Resolução de problemas;
-    
+    ▶︎ BeeCrowd - Resolução de problemas;  
     ▶︎ FreeCode - Resolução de problemas;
-    
     ▶︎ Alura - Cursos de projetos em Python;
-    
     ▶︎ Udemy - Luis Otavio - Pyhon do inicio ao avançado;
-    
     ▶︎ IFMG/Cepedi - Back End em python.
     
 _> Contatos:_
